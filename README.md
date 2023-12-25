@@ -72,5 +72,3 @@ Make sure to customize the paths and backup settings according to your system's 
 
 Now, your Btrfs subvolumes will be automatically backed up on a daily basis.
 ```
-
-Feel free to modify the README as needed to match your specific script and system configuration. This provides a clear and detailed guide for users to understand how to use your script and set up automated backups using cron jobs.
